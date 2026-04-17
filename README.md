@@ -77,10 +77,10 @@ Type      : Meeting
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/bhaktiyadav08/NLP_message_classifier
 
 # Navigate to folder
-cd your-repo-name
+cd NLP_message_classifier
 
 # Install dependencies
 pip install -r requirements.txt
